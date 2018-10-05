@@ -1,0 +1,22 @@
+{
+  "PORT": "3000",
+
+  "DB_HOST": "localhost",
+  "DB_PORT": "3306",
+  "DB_NAME": "axiata_boost",
+  "DB_USER": "root",
+  "DB_PASS": "",
+  "BCRYPT_SALT_ROUND": 10,
+  "JWT_SECRET": "secret123",
+  "AGATE_TOKEN_CALLBACK": "secret123",
+  "ACCESS_TOKEN": "_ACCESS_TOKEN_",
+  "COE_API_HOST": "https://k5l4t01051.execute-api.ap-southeast-1.amazonaws.com",
+  "GOOGLE_API_KEY": "AIzaSyA50MhPKcSKEGTRP02moGmrXZvV4-yGlcc",
+  "LOG_DIR": "logs",
+  "BNI_DEVELOPMENT_URL":"https://apibeta.bni-ecollection.com/",
+  "BNI_PRODUCTION_URL":"https://api.bni-ecollection.com/",
+  "BNI_CID":"394",
+  "BNI_SCK":"1dd73b81e3efea961ea684f0bb66febe",
+  "BNI_VA_TYPE": "createdebitcardless"
+}
+
